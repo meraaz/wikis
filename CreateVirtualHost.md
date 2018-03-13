@@ -14,7 +14,7 @@
   </Directory>
 </VirtualHost>
 ```
-*** if it's laravel project , refer to public folder ***
+** _if it's laravel project , refer to public folder_ **
 `"/var/www/html/{projectPath}/public"`
 
 * #### Enable the new domain
