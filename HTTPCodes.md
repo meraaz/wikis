@@ -111,6 +111,16 @@
           "explain"  : "the web server could not find the requested page, file, or ​another resource"
         }
       ```
+      
+      
+    - **405 - Method Not Allowed**
+      ```
+        {
+          "code" : "405",
+          "msg"  : "Method Not Allowed",
+          "explain"  : "the request method is known by the server but is not supported by the target resource."
+        }
+      ```
 
 #### Server Errors
 
